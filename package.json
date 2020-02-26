@@ -1,0 +1,8 @@
+{
+  "name": "room-service",
+  "version": "1.0.0",
+  "description": "Light and progressive web solution for providing room services",
+  "main": "main.js",
+  "author": "hikipooh <hikipooh@gmail.com>",
+  "license": "MIT"
+}
